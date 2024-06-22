@@ -51,6 +51,6 @@ Copy code
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/flask-jwt-auth-example.git
+   git clone https://github.com/christalselvin/JWT.git
    cd flask-jwt-auth-example
 
